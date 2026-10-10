@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ứng dụng Thể dục</string>
+    <string name="app_title">Ứng dụng Thể dục</string>
+    <string name="perform">Thực hiện</string>
+    <string name="deduction">Trừ điểm</string>
+    <string name="reset">Đặt lại</string>
+    <string name="element_format">Động tác %1$d trên 10</string>
+    <string name="routine_complete">Hoàn thành bài thi!</string>
+</resources>
