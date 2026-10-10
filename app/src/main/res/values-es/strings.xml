@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicación de Gimnasia</string>
+    <string name="app_title">Aplicación de Gimnasia</string>
+    <string name="perform">Ejecutar</string>
+    <string name="deduction">Deducción</string>
+    <string name="reset">Reiniciar</string>
+    <string name="element_format">Elemento %1$d de 10</string>
+    <string name="routine_complete">¡Rutina completa!</string>
+</resources>
