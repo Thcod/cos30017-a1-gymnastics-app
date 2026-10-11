@@ -35,10 +35,21 @@
         android:textAlignment="center"
         android:textSize="96sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@id/performButton"
+        app:layout_constraintBottom_toTopOf="@id/statusText"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/elementText" />
+
+    <TextView
+        android:id="@+id/statusText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@id/performButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/scoreText" />
 
     <Button
         android:id="@+id/performButton"
